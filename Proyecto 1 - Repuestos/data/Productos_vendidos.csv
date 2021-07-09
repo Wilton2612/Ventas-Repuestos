@@ -1,0 +1,8 @@
+nombre;codigo;cantidad;marca;valor unidad;valor total;fecha;numero de venta
+comando;234;1;auteco;2000.0;2000.0;2021-07-06;9269112.0
+bombillo;235;1;honda;1000.0;1000.0;2021-07-06;6102508.0
+bombillo;235;3;honda;1000.0;3000.0;2021-07-06;6976937.0
+cadena;897;1;auteco;15000.0;15000.0;2021-07-06;6976937.0
+bombillo;235;1;honda;1000.0;1000.0;2021-07-07;6273683.0
+cadena;897;1;auteco;15000.0;15000.0;2021-07-07;7903732.0
+bateria;101;5;auteco;16800.0;84000.0;2021-07-07;3808252.0
