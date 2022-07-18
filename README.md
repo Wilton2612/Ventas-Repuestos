@@ -17,5 +17,9 @@ Wilton Martinez – Trabajo completo
 
 
 *Instalación*
+
 ![image](https://user-images.githubusercontent.com/54651477/179441686-52b36f7d-787b-4a5d-ba25-75b4102e2dc8.png)
+
+**Ejecute el archivo InterfazPrincipal.java**
+![image](https://user-images.githubusercontent.com/54651477/179441851-a9db319c-eb9c-48f7-bbf1-385dd0ae4716.png)
 
