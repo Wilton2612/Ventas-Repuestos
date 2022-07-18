@@ -1,0 +1,10 @@
+nombre;codigo;cantidad;marca;valor unidad;valor total;estado
+comando;234;9;auteco;2000.0;42000.0;si
+cadena;897;19;auteco;15000.0;510000.0;si
+arbol de leva ;534;19;auteco;20000.0;380000.0;si
+bombillo;235;39;honda;1000.0;12000.0;si
+bujia;765;10;akt;1.0;14.0;si
+asiento;483;50;auteco;1400.0;5600.0;si
+comando - akt;345;54;akt;2800.0;151200.0;si
+cilindro;098;20;yamaha;56000.0;1120000.0;si
+bateria;101;5;auteco;16800.0;168000.0;si
