@@ -14,3 +14,8 @@ Para el almacenamiento de los datos utilice archivos .csv. Por otra parte, el pr
 
 Autor
 Wilton Martinez – Trabajo completo
+
+
+*Instalación*
+![image](https://user-images.githubusercontent.com/54651477/179441686-52b36f7d-787b-4a5d-ba25-75b4102e2dc8.png)
+
